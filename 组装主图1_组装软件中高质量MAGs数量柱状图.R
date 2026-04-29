@@ -12,9 +12,10 @@ library(ggpubr)
 library(forcats)
 
 # 2. 构建与处理数据
+# 修改点：将 TGS 替换为 Long-read，将 NGS 替换为 Short-read
 plot_data <- data.frame(
-  Method = factor(c(rep("TGS", 3), rep("TGS+NGS polishing", 3), rep("HYB", 2)),
-                  levels = c("TGS", "TGS+NGS polishing", "HYB")),
+  Method = factor(c(rep("Long-read", 3), rep("Long-read+Short-read polishing", 3), rep("HYB", 2)),
+                  levels = c("Long-read", "Long-read+Short-read polishing", "HYB")),
   Software = factor(c("Flye", "MetaMDBG", "MyLoAsm",
                       "Flye", "MetaMDBG", "MyLoAsm",
                       "HybridSPAdes", "OPERA-MS"),
@@ -71,7 +72,7 @@ p_nature <- ggplot(plot_data_long, aes(x = Software, y = Count, fill = Quality))
     axis.ticks = element_line(linewidth = 0.8, color = "black"),
     axis.ticks.length = unit(0.15, "cm"),
     
-    # 标题与刻度文本：遵循 16pt/14pt 规范
+    # 标题与刻度文本：遵循 Nature 规范
     axis.title = element_text(face = "bold", size = 16),
     axis.text = element_text(size = 14, color = "black", face = "bold"),
     axis.text.x = element_text(angle = 45, hjust = 1), # 45度倾斜避免重叠
@@ -98,8 +99,8 @@ p_nature <- ggplot(plot_data_long, aes(x = Software, y = Count, fill = Quality))
 # ----------------------------
 # 6. 保存导出 (cairo_pdf)
 # ----------------------------
-# 导出为 8x6 英寸，适合大多数 SCI 期刊通栏或半通栏排版
-ggsave(filename = "MAGs_Yield_Nature_Style.pdf",
+# 导出为 10x7 英寸
+ggsave(filename = "MAGs_Yield_Nature_Style_v2.pdf",
        plot = p_nature,
        device = cairo_pdf,
        width = 10, height = 7,

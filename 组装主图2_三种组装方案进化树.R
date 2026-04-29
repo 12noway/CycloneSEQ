@@ -14,8 +14,8 @@ library(ape)
 library(cowplot)
 
 # ================= 读数据 =================
-tree <- read.tree("Phylogenetic_tree.unrooted.tree")
-info <- read_tsv("gtdbtk.bac120.summary.tsv")
+tree <- read.tree("../表格/组装主图_三种组装方案进化树/Phylogenetic_tree.unrooted.tree")
+info <- read_tsv("../表格/组装主图_三种组装方案进化树/gtdbtk.bac120.summary.tsv")
 
 plot_data <- info %>%
   mutate(

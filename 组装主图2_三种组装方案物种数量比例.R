@@ -11,11 +11,12 @@ total_vOTUs <- 314
 
 assembler_data <- data.frame(
   Assembler = c("flye","metamdbg","myloasm",
-                "flye_nextpolish","metamdbg_nextpolish","myloasm_nextpolish",
+                "flye_short_polish","metamdbg_short_polish","myloasm_short_polish",
                 "hybridspades","opera_ms"),
   Single_tool = c(235,247,229,252,262,259,275,252),
-  Group = c(rep("TGS",3),
-            rep("TGS_nextpolish",3),
+  # 修改术语：TGS -> Long-read, TGS_nextpolish -> Long-read+Short-read
+  Group = c(rep("Long-read",3),
+            rep("Long-read+Short-read",3),
             rep("HYB",2))
 )
 
@@ -32,7 +33,8 @@ plot_data <- assembler_data %>%
 # 因子顺序固化
 plot_data$Type <- factor(plot_data$Type, levels = c("Expansion","Single_tool"))
 plot_data$Assembler <- factor(plot_data$Assembler, levels = assembler_data$Assembler)
-plot_data$Group <- factor(plot_data$Group, levels = c("TGS", "TGS_nextpolish", "HYB"))
+# 修正 Group 的因子顺序
+plot_data$Group <- factor(plot_data$Group, levels = c("Long-read", "Long-read+Short-read", "HYB"))
 
 # 2. 绘图
 p <- ggplot(plot_data, aes(x = Assembler, y = Proportion, fill = Type)) +
@@ -91,7 +93,7 @@ p <- ggplot(plot_data, aes(x = Assembler, y = Proportion, fill = Type)) +
   )
 
 # 3. 保存
-ggsave("MAGs_Proportion_Full_Labels.pdf", p, 
-       width = 8.5, height = 5.5, device = cairo_pdf)
+ggsave("MAGs_Proportion_LongRead_Style.pdf", p, 
+       width = 9.5, height = 5.5, device = cairo_pdf) # 略微增加宽度以适应较长的标签
 
 print(p)
