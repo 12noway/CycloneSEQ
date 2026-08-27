@@ -1,6 +1,0 @@
-sample_id,without_pretreatment_gram_posivie,without_pretreatment_gram_negative,with_pretreatment_gram_posivie,with_pretreatment_gram_negative,total_without_pretreatment_bacteria_number,total_with_pretreatment_bacteria_number
-0942,61,51,139,92,160,384
-4143,35,15,128,92,61,418
-8366,86,51,147,80,240,412
-8373,86,51,148,96,242,512
-8915,79,60,139,90,309,527
