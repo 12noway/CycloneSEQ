@@ -1,0 +1,434 @@
+MAG,Phylum,Taxonomy,Completeness,Contamination,Assembler,Polished,Is_Novel
+HybridSPAdes_2118_SemiBin_129,Bacillota,Megasphaera stantonii,50.61,0.01,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_0,Bacillota,CAG-302 sp000431795,91.43,1.88,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_100,Bacillota,Phil1 sp001940855,91.93,1.04,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_105,Bacillota,CAG-170 sp000432135,73.44,0.12,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_124,Bacillota,Hominicoprocola fusiformis,54.51,4.56,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_15,Bacteroidota,CAG-1031 sp000431215,88.33,0.07,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_18,Desulfobacterota_I,Desulfovibrio piger_A,100,0.95,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_180,Cyanobacteriota,CAG-196 sp002102975,64.52,2.31,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_183,Bacteroidota,Butyricimonas faecihominis,61.58,1.14,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_25,Bacillota,PeH17 sp000435055,96.02,0.3,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_3,Bacillota,URXU01 sp900552005,100,0.21,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_4,Verrucomicrobiota,Akkermansia muciniphila,100,0.22,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_5,Bacillota,Roseburia hominis,63.39,0.04,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_71,Bacillota,CAG-177 sp003538135,100,1.31,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_75,Bacillota,Vescimonas sp000435555,54.36,2.01,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_76,Bacillota,Vescimonas sp900545495,79.65,7.99,HybridSPAdes,NO,FALSE
+HybridSPAdes_3068_SemiBin_89,Bacillota,Paludihabitans sp900543295,88.95,1.79,HybridSPAdes,NO,FALSE
+HybridSPAdes_4143_SemiBin_0,Desulfobacterota_I,Desulfovibrio sp900319575,99.99,0.47,HybridSPAdes,NO,FALSE
+HybridSPAdes_4143_SemiBin_10,Pseudomonadota,Mesosutterella multiformis,98.62,1.57,HybridSPAdes,NO,FALSE
+HybridSPAdes_4143_SemiBin_173,Bacteroidota,Bacteroides clarus,58.1,1.17,HybridSPAdes,NO,FALSE
+HybridSPAdes_4143_SemiBin_216,Bacillota,UBA11524 sp000437595,62.84,1.37,HybridSPAdes,NO,FALSE
+HybridSPAdes_4143_SemiBin_63,Bacillota,CAG-170 sp900553545,98.82,3.72,HybridSPAdes,NO,FALSE
+HybridSPAdes_5178_SemiBin_12,Bacteroidota,Barnesiella intestinihominis,82.99,0.02,HybridSPAdes,NO,FALSE
+HybridSPAdes_5178_SemiBin_14,Bacteroidota,Tidjanibacter inops,99.99,0.02,HybridSPAdes,NO,FALSE
+HybridSPAdes_5178_SemiBin_26,Pseudomonadota,Sutterella wadsworthensis,96.8,3.35,HybridSPAdes,NO,FALSE
+HybridSPAdes_5178_SemiBin_5,Bacteroidota,Alistipes onderdonkii,99.98,0.33,HybridSPAdes,NO,FALSE
+HybridSPAdes_5178_SemiBin_6,Bacteroidota,Butyricimonas virosa,99.98,2.07,HybridSPAdes,NO,FALSE
+HybridSPAdes_5178_SemiBin_66,Bacillota,Enterenecus sp900549885,65.8,3.18,HybridSPAdes,NO,FALSE
+HybridSPAdes_5178_SemiBin_9,Bacteroidota,Bacteroides fragilis,62.48,0.02,HybridSPAdes,NO,FALSE
+HybridSPAdes_8366_SemiBin_130,Bacteroidota,Alistipes_A indistinctus,77.31,4.39,HybridSPAdes,NO,FALSE
+HybridSPAdes_8366_SemiBin_172,Bacteroidota,Alistipes_A hominis,77.12,0.71,HybridSPAdes,NO,FALSE
+HybridSPAdes_8366_SemiBin_239,Pseudomonadota,Comamonas kerstersii,52.06,3.99,HybridSPAdes,NO,FALSE
+HybridSPAdes_8366_SemiBin_37,Bacillota,Anaerotignum_A faecicola,85.9,0.03,HybridSPAdes,NO,FALSE
+HybridSPAdes_8366_SemiBin_44,Bacteroidota,Alistipes communis,99.99,2.12,HybridSPAdes,NO,FALSE
+HybridSPAdes_8366_SemiBin_93,Bacillota,Faecalibacterium sp900539945,61.15,5.74,HybridSPAdes,NO,FALSE
+HybridSPAdes_8373_SemiBin_108,Bacillota,Ventricola sp900542395,95.02,0.8,HybridSPAdes,NO,FALSE
+HybridSPAdes_8373_SemiBin_180,Bacillota,CAG-170 sp900553545,65.83,0.55,HybridSPAdes,NO,FALSE
+HybridSPAdes_8373_SemiBin_19,Bacteroidota,Prevotella sp900553595,88.99,3.33,HybridSPAdes,NO,FALSE
+HybridSPAdes_8373_SemiBin_31,Bacteroidota,Alistipes shahii,99.07,3.98,HybridSPAdes,NO,FALSE
+HybridSPAdes_8373_SemiBin_38,Bacillota,Alitiscatomonas aceti,96.33,0.08,HybridSPAdes,NO,FALSE
+HybridSPAdes_8373_SemiBin_71,Bacillota,Pseudoscillospira sp018369915,76.66,1.02,HybridSPAdes,NO,FALSE
+HybridSPAdes_8915_SemiBin_146,Bacillota,Schaedlerella hominis,69.36,7.07,HybridSPAdes,NO,FALSE
+HybridSPAdes_8915_SemiBin_210,Bacillota,Scatosoma sp003150575,88.91,3.89,HybridSPAdes,NO,FALSE
+HybridSPAdes_8915_SemiBin_32,Bacillota,CAG-449 sp900551385,69.46,5.28,HybridSPAdes,NO,FALSE
+HybridSPAdes_8915_SemiBin_80,Bacillota,RGIG3102 sp934526065,100,1.08,HybridSPAdes,NO,FALSE
+HybridSPAdes_8915_SemiBin_82,Verrucomicrobiota,Victivallis lenta,86.83,1.32,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_100,Bacillota,Pseudobutyricicoccus sp003477405,90.91,1.26,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_106,Bacillota,Faecousia sp000434635,97.67,3.12,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_108,Bacteroidota,Butyricimonas faecalis,88.13,2.56,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_109,Bacteroidota,Bacteroides ovatus,53.89,0.97,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_12,Bacillota,CAG-274 sp900545305,94.7,0.43,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_130,Bacillota,Hominifimenecus microfluidus,80.54,1.64,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_160,Bacillota,Oscillibacter segnis,80.79,0.46,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_170,Bacillota,Lawsonibacter,81.69,4.18,HybridSPAdes,NO,TRUE
+HybridSPAdes_934_SemiBin_190,Bacillota,CAG-238 sp900754805,85.87,0.89,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_215,Bacillota,Hominicoprocola sp900317525,52.24,0.47,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_222,Bacillota,CAG-170 sp000436735,65.07,1.54,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_252,Bacteroidota,Lepagella sp001701295,71.58,2.87,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_43,Bacteroidota,Bacteroides salyersiae,85.57,3.39,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_48,Bacillota,Ruminiclostridium_E siraeum,97.79,0.12,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_51,Pseudomonadota,Sutterella massiliensis,95.04,0.78,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_52,Bacillota,Alangreenwoodia sp019420525,95.37,3.51,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_64,Bacillota,SFEL01 sp004557245,77.96,0,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_68,Bacillota,Vescimonas sp900552475,79.82,1.76,HybridSPAdes,NO,FALSE
+HybridSPAdes_934_SemiBin_94,Bacillota,Ventricola sp900542445,97.72,0.28,HybridSPAdes,NO,FALSE
+HybridSPAdes_942_SemiBin_30,Bacillota,Anaerobutyricum hallii,99.86,1.3,HybridSPAdes,NO,FALSE
+HybridSPAdes_942_SemiBin_55,Bacteroidota,Alistipes putredinis,93.23,2.51,HybridSPAdes,NO,FALSE
+MetaMDBG_4143_SemiBin_61,Bacillota,Gemmiger,53.35,5.13,MetaMDBG,NO,TRUE
+MetaMDBG_8366_SemiBin_101,Bacteroidota,Bacteroides hominis,95.72,8.89,MetaMDBG,NO,FALSE
+MetaMDBG_8366_SemiBin_107,Bacillota,Pilosibacter sp900066055,58.82,3.28,MetaMDBG,NO,FALSE
+MetaMDBG_8366_SemiBin_266,Bacillota,Acetatifactor acetigignens,99.93,1.12,MetaMDBG,NO,FALSE
+MetaMDBG_8366_SemiBin_497,Bacillota,Vescimonas sp003487665,96.86,3.53,MetaMDBG,NO,FALSE
+MetaMDBG_8366_SemiBin_87,Bacillota,Hominiventricola aquisgranensis,82.42,5.52,MetaMDBG,NO,FALSE
+MetaMDBG_8373_SemiBin_184,Bacillota,Vescimonas cirricatena,69.63,8.91,MetaMDBG,NO,FALSE
+MetaMDBG_8373_SemiBin_274,Bacillota,Ruminococcus_C sp000980705,98.93,2.79,MetaMDBG,NO,FALSE
+MetaMDBG_8373_SemiBin_315,Bacillota,Faecalibacillus faecis,99.23,3.37,MetaMDBG,NO,FALSE
+MetaMDBG_8373_SemiBin_55,Bacillota,Dorea_A amylophila,99.89,0.16,MetaMDBG,NO,FALSE
+MetaMDBG_8373_SemiBin_67,Bacillota,Streptococcus infantarius,99.98,2.78,MetaMDBG,NO,FALSE
+MetaMDBG_8373_SemiBin_73,Desulfobacterota_I,Desulfovibrio fairfieldensis_A,78.68,3.03,MetaMDBG,NO,FALSE
+MetaMDBG_8373_SemiBin_82,Bacillota,Dorea,76.89,4.95,MetaMDBG,NO,TRUE
+MetaMDBG_8915_SemiBin_197,Bacteroidota,Bacteroides,59,9.64,MetaMDBG,NO,TRUE
+MetaMDBG_8915_SemiBin_296,Bacillota,Gemmiger sp900540595,94.66,2.26,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_109,Bacillota,Eubacterium_I ramulus_A,88.83,2.51,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_111,Bacillota,Dorea_D hominis,79.94,0.61,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_12,Bacillota,Blautia_A faecis,84.44,7.92,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_122,Bacillota,Enterocloster sp000431375,96.13,6.81,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_132,Bacillota,Dorea formicigenerans,98.6,3.14,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_2,Bacillota,Blautia stercoris,92.22,6.6,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_206,Bacillota,Pilosibacter fragilis,98.54,1.15,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_26,Bacteroidota,Phocaeicola coprocola,90.27,2.33,MetaMDBG,NO,FALSE
+MetaMDBG_942_SemiBin_38,Bacillota,Agathobacter,50.52,2.42,MetaMDBG,NO,TRUE
+MetaMDBG_942_SemiBin_99,Bacteroidota,Bacteroides caccae,65.25,0.98,MetaMDBG,NO,FALSE
+MetaMDBG_sr_4143_SemiBin_234,Bacteroidota,Prevotella copri_A,99.62,3.64,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_4143_SemiBin_332,Bacillota,Coprococcus sp000433075,100,1.29,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_4143_SemiBin_537,Bacillota,Dialister hominis,99.91,1.09,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_5178_SemiBin_233,Bacillota,Ruminococcoides intestinalis,99.81,1.39,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_100,Bacteroidota,Bacteroides eggerthii,99.8,0.45,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_119,Bacillota,Mediterraneibacter faecis,85.7,1.42,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_268,Bacteroidota,Bacteroides cellulosilyticus,75.64,0.5,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_279,Bacteroidota,Prevotella stercorea,99.95,0.03,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_348,Bacteroidota,Prevotella sp900548745,99.98,0.79,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_386,Bacillota,Lachnospira sp900551945,99.94,2.55,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_588,Bacteroidota,Prevotella sp900313215,99.91,0.26,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_627,Bacillota,UBA10677 sp003533505,95.17,0.51,MetaMDBG_sr,YES,FALSE
+MetaMDBG_sr_8915_SemiBin_72,Bacillota,CAG-882 sp900545175,63.35,1.83,MetaMDBG_sr,YES,FALSE
+MyLoasm_2118_SemiBin_52,Bacillota,Mitsuokella jalaludinii,75.67,1.31,MyLoasm,NO,FALSE
+MyLoasm_2118_SemiBin_71,Bacillota,Eubacterium_F sp900539115,53.31,2.57,MyLoasm,NO,FALSE
+MyLoasm_2118_SemiBin_84,Cyanobacteriota,Scatousia sp900321895,59.16,6.58,MyLoasm,NO,FALSE
+MyLoasm_3068_SemiBin_23,Bacillota,Merdicola sp900754085,81.74,5.86,MyLoasm,NO,FALSE
+MyLoasm_3068_SemiBin_24,Bacillota,CALXVA01 sp019419955,82.72,5.44,MyLoasm,NO,FALSE
+MyLoasm_3068_SemiBin_63,Actinomycetota,Collinsella sp958445895,94.03,0.24,MyLoasm,NO,FALSE
+MyLoasm_4143_SemiBin_22,Bacillota,Lentihominibacter faecis,67.18,1.47,MyLoasm,NO,FALSE
+MyLoasm_4143_SemiBin_228,Bacillota,Blautia_A obeum,99.97,8.38,MyLoasm,NO,FALSE
+MyLoasm_4143_SemiBin_28,Bacillota,Otoolea,62.69,9.95,MyLoasm,NO,TRUE
+MyLoasm_4143_SemiBin_56,Bacillota,Sellimonas intestinalis,55.86,6.48,MyLoasm,NO,FALSE
+MyLoasm_4143_SemiBin_93,Bacillota,Faecalibacillus intestinalis,97.58,6.88,MyLoasm,NO,FALSE
+MyLoasm_4143_SemiBin_95,Bacillota,Coprococcus ammoniilyticus,98.74,5.74,MyLoasm,NO,FALSE
+MyLoasm_5178_SemiBin_313,Actinomycetota,Bifidobacterium longum,85.08,3.25,MyLoasm,NO,FALSE
+MyLoasm_5178_SemiBin_51,Bacillota,Bariatricus comes,96.17,4.84,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_10,Bacillota,Mediterraneibacter lactaris,99.96,1.1,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_115,Bacillota,Blautia_A intestinihominis,87.42,7.42,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_120,Bacillota,Choladousia sp902363135,73.62,3.75,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_128,Bacillota,Roseburia_C amylophila,74.68,1.3,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_134,Bacillota,Eubacterium_G ventriosum,93.67,2.69,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_153,Bacillota,Faecalibacterium duncaniae,74.94,7.3,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_32,Bacillota,Hominisplanchenecus faecis,100,4.17,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_35,Bacillota,Coprococcus_A intestinihominis,63.62,7.98,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_36,Bacillota,Oliverpabstia faecicola,99.84,2.75,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_41,Bacillota,Fusicatenibacter saccharivorans,96.72,4.47,MyLoasm,NO,FALSE
+MyLoasm_8366_SemiBin_79,Bacillota,Blautia_A schinkii_B,100,3.26,MyLoasm,NO,FALSE
+MyLoasm_8373_SemiBin_128,Bacillota,Blautia_A wexlerae,87.63,3.44,MyLoasm,NO,FALSE
+MyLoasm_8373_SemiBin_21,Bacillota,Blautia_A sp900120195,85.31,9.38,MyLoasm,NO,FALSE
+MyLoasm_8373_SemiBin_22,Bacillota,Dorea_A longicatena,82.11,0.23,MyLoasm,NO,FALSE
+MyLoasm_8373_SemiBin_26,Bacillota,Ruminococcus_B gnavus,88.83,8.39,MyLoasm,NO,FALSE
+MyLoasm_8373_SemiBin_365,Bacillota,Maccoya intestinihominis,88.21,1.91,MyLoasm,NO,FALSE
+MyLoasm_8373_SemiBin_66,Bacillota,Coprococcus_A catus,85.36,5.44,MyLoasm,NO,FALSE
+MyLoasm_8915_SemiBin_117,Bacillota,Eubacterium_G sp000435815,83.71,6.46,MyLoasm,NO,FALSE
+MyLoasm_8915_SemiBin_147,Bacillota,CAG-303 sp000437755,84.51,2.46,MyLoasm,NO,FALSE
+MyLoasm_8915_SemiBin_160,Bacillota,Laedolimicola intestinihominis,87.75,3.23,MyLoasm,NO,FALSE
+MyLoasm_8915_SemiBin_4,Bacillota,Gemmiger sp900539695,78.15,7.59,MyLoasm,NO,FALSE
+MyLoasm_942_SemiBin_100,Bacillota,Agathobaculum,51.49,5.37,MyLoasm,NO,TRUE
+MyLoasm_942_SemiBin_23,Bacillota,Anaerostipes hadrus,99.98,1.1,MyLoasm,NO,FALSE
+MyLoasm_942_SemiBin_78,Bacillota,Enterococcus_B faecium,85.02,4.46,MyLoasm,NO,FALSE
+MyLoasm_sr_2118_SemiBin_6,Bacillota,Dorea_A,54.07,8.8,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_3068_SemiBin_58,Bacillota,Eubacterium_R sp000434995,98.41,3.67,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_3068_SemiBin_78,Bacillota,Dorea_A,56.71,7.9,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_3068_SemiBin_95,Bacillota,Faecalibacterium,57,6.39,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_4143_SemiBin_12,Bacillota,Lachnospira rogosae,99.99,4.53,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_128,Bacillota,Vescimonas cirricatena,68.47,0.56,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_133,Actinomycetota,Aveggerthella excrementigallinarum,94.11,3.77,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_162,Bacillota,CAG-238 sp900542245,56.15,0.46,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_177,Bacillota,UMGS1071 sp900542375,72.12,0.67,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_181,Bacillota,Jutongia huaianensis,83.33,1.08,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_22,Bacillota,Hominibacterium hominis,64.45,4.67,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_24,Bacillota,Blautia_A intestinalis,67.98,5.02,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_3,Bacillota,Faecousia intestinalis,50.07,0.3,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_519,Actinomycetota,Collinsella,99.86,0.26,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_4143_SemiBin_529,Bacillota,Roseburia inulinivorans,100,0.33,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_53,Bacillota,Lachnospira sp000436475,99.99,0.48,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_536,Bacillota,Coprobacillus cateniformis,99.58,1.25,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_76,Bacillota,Vescimonas coprocola,95.2,5.4,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_80,Bacteroidota,Prevotella sp002265625,100,5.82,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_87,Bacillota,CAG-170 sp900545925,54.63,1.36,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_9,Bacillota,Lentihominibacter excrementipullorum,55.1,1.64,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_4143_SemiBin_91,Bacillota,Limivivens sp905214955,52.79,2.42,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_5178_SemiBin_11,Bacillota,Dorea_D,53.06,6.38,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_5178_SemiBin_18,Bacillota,Faecalibacterium,53.19,8.26,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_5178_SemiBin_19,Bacillota,Faecalibacterium,53.84,7.35,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_5178_SemiBin_27,Bacillota,Clostridium_AP sp000509125,63.46,3,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_5178_SemiBin_333,Bacillota,Lachnospira sp000437735,99.87,1.54,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_5178_SemiBin_52,Bacillota,Clostridium_A leptum,83.32,4.27,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_5178_SemiBin_88,Bacillota,Butyribacter sp003529475,99.94,0.98,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_103,Bacillota,Evtepia gabavorous,97.26,4.69,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_104,Bacillota,Blautia_A acetigignens,60.23,4.47,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_118,Bacillota,Oscillibacter sp900550685,62.81,2.89,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_119,Bacillota,Oscillibacter welbionis,84.23,0.07,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_127,Bacillota,Lachnospira hominis,99.99,0.54,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_144,Bacillota,Pseudobutyricicoccus sp016901775,68.76,1.06,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_155,Bacteroidota,Bacteroides,50.52,6.99,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_8366_SemiBin_163,Desulfobacterota_I,Bilophila wadsworthia,99.8,4.66,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_17,Bacillota,Eubacterium_B sulci,52.7,9.47,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_180,Bacillota,Hominicoprocola sp900317525,78.39,2.31,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_199,Bacillota,Lentihominibacter butyricus,72,2.64,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_21,Bacillota,Oscillibacter segnis,65.87,6.23,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_246,Bacteroidota,Limisoma sp000437795,99.99,0.79,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_336,Bacillota,Ruminococcoides intestinihominis,99.98,0.45,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_354,Bacillota,CAG-274 sp000432155,97.97,0.16,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_38,Bacillota,UBA3402 sp003478355,77.91,5.55,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_382,Bacillota,CAG-882 sp003486385,100,0.67,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_383,Bacillota,Agathobacter rectalis,100,0.25,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_386,Bacteroidota,Paraprevotella clara,100,1.53,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_397,Bacillota,Eubacterium_R sp000436835,97.83,0.25,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_398,Bacillota,Dialister sp000434475,99.99,0.65,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_4,Bacillota,Muricoprocola shaoxingensis,71.59,6.97,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_402,Bacillota,Scybalousia sp900542735,93.9,0.32,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_48,Bacillota,Agathobacter faecis,96.21,8.14,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_5,Bacillota,Dorea formicigenerans,99.99,9.73,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_52,Bacillota,Eubacterium_I ramulus,99.17,0.2,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_61,Bacteroidota,Bacteroides ovatus,99.07,8.57,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_71,Bacteroidota,Bacteroides uniformis,99.98,1.89,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_85,Bacillota,Lawsonibacter sp900549405,68.54,1.4,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_86,Bacillota,Hominenteromicrobium mulieris,98.53,0.16,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_87,Bacillota,Butyribacter hominis,99.8,3.89,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_90,Bacteroidota,Parabacteroides distasonis,99.95,1.26,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8366_SemiBin_91,Bacillota,Choladousia,53.01,6.5,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_8366_SemiBin_92,Bacillota,Pilosibacter,57.24,8.06,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_8373_SemiBin_100,Bacillota,Agathobaculum sp900544475,95.85,2.8,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_124,Pseudomonadota,Scatocola faecipullorum,100,0.33,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_130,Bacteroidota,Prevotella rara,100,0.29,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_146,Actinomycetota,QAMH01 sp900756605,60.31,1.29,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_165,Bacillota,Lawsonibacter,57.87,7.52,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_8373_SemiBin_186,Bacillota,Faecalibacterium,50.68,4.65,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_8373_SemiBin_21,Bacteroidota,Phocaeicola,67.56,6.74,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_8373_SemiBin_267,Bacillota,Hominilimicola fabiformis,99.95,2.45,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_33,Bacillota,Oliverpabstia intestinalis,66.25,6.8,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_44,Bacillota,Vescimonas sp003539495,85.73,0.95,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_48,Bacteroidota,Bacteroides finegoldii,99.98,2.79,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_5,Bacillota,Pararoseburia lenta,94.25,0.34,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_52,Bacillota,Streptococcus,63.62,9.27,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_8373_SemiBin_526,Bacillota,Mediterraneibacter torques,99.94,0.05,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_6,Bacillota,Eubacterium_P hominis,100,7.94,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_77,Bacillota,CAG-177 sp003514385,91.48,0.75,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_80,Bacillota,Hominimerdicola aceti,99.99,3.67,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_83,Bacillota,UMGS1975 sp900546685,68.34,2.45,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_94,Bacteroidota,Alistipes putredinis,99.98,0.3,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8373_SemiBin_99,Bacillota,Vescimonas sp900545585,69.61,1.71,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_100,Bacillota,Lachnospira sp000436535,76.27,1.43,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_101,Bacillota,UBA4285 sp900545225,80.74,2.05,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_105,Bacillota,Anthropogastromicrobium aceti,98.24,0.45,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_110,Bacillota,Angelakisella sp900547385,91.02,0.29,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_124,Bacteroidota,Odoribacter splanchnicus,57.61,1.18,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_148,Bacteroidota,Phocaeicola vulgatus,100,0.58,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_151,Bacillota,Suilimivivens aceti,50.37,0.33,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_164,Bacillota,CAG-448 sp003150135,71.54,0.31,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_17,Bacillota,CAG-269 sp001916065,95.75,5.56,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_18,Bacillota,CAG-269 sp900556345,90.18,6.09,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_201,Bacillota,Catenibacterium mitsuokai,100,8.2,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_203,Bacillota,Negativibacillus sp000435195,92.16,2.66,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_216,Bacillota,Apopatocola sp003522945,79.97,0,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_232,Bacillota,Faecalibacterium prausnitzii_I,78.21,4.93,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_233,Pseudomonadota,Parasutterella gallistercoris,99.95,8.22,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_239,Bacillota,CAG-433 sp000433675,94.73,7.69,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_245,Bacillota,Vescimonas sp000435975,68.48,2.76,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_34,Bacillota,QAKL01 sp003343815,94.21,0.58,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_42,Bacillota,Faecalibacterium prausnitzii_E,67.72,5.73,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_45,Bacteroidota,Butyricimonas hominis,79.27,2.65,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_554,Bacillota,Wujia hominis,99.98,3.33,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_559,Bacillota,Phascolarctobacterium faecium,99.79,0.24,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_56,Bacillota,Blautia_A fusiformis,58.89,7.49,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_57,Bacillota,Oliverpabstia intestinalis,62.44,0.37,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_579,Bacillota,Roseburia rectibacter,99.99,0.82,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_593,Bacillota,CAG-492 sp000434335,98.22,6.13,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_598,Bacillota,CAG-217 sp000436335,99.17,0.44,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_71,Bacillota,Coprococcus aceti,100,4.45,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_8915_SemiBin_78,Bacillota,CAG-170 sp900549635,66.88,0.86,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_934_SemiBin_125,Bacillota,Eubacterium_F sp003491505,100,0.02,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_934_SemiBin_173,Bacillota,CAG-269 sp000431335,96.47,3.18,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_934_SemiBin_182,Actinomycetota,Anaerotardibacter sp900544455,82.41,1.34,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_934_SemiBin_23,Bacillota,UBA11524 sp000437595,95.48,1.47,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_934_SemiBin_638,Bacillota,Ruminococcoides intestinale,99.99,2.11,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_934_SemiBin_670,Actinomycetota,Collinsella,99.96,0.36,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_934_SemiBin_682,Bacillota,CAG-302 sp934162325,93.07,3.24,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_934_SemiBin_70,Bacillota,Blautia_A faecis,100,8.09,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_271,Bacillota,Gemmiger formicilis,99.95,1.34,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_309,Pseudomonadota,Aphodousia faecalis,97.59,0.58,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_36,Bacillota,Streptococcus,56.16,4.71,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_942_SemiBin_43,Bacillota,Hominiventricola filiformis,78.62,1.5,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_50,Pseudomonadota,Haemophilus_D,58.49,2.4,MyLoasm_sr,YES,TRUE
+MyLoasm_sr_942_SemiBin_65,Bacillota,Otoolea fessa,98.81,0.08,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_7,Bacillota,Blautia_A fusiformis,100,6.78,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_77,Bacillota,Blautia_A sp003471165,57.12,0.65,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_80,Fusobacteriota,Fusobacterium_A varium,70.52,0.28,MyLoasm_sr,YES,FALSE
+MyLoasm_sr_942_SemiBin_89,Bacillota,Granulicatella,62.51,5.63,MyLoasm_sr,YES,TRUE
+OPERA_MS_3068_SemiBin_0,Bacillota,CAG-452 sp000434035,94.43,1.78,OPERA_MS,YES,FALSE
+OPERA_MS_3068_SemiBin_117,Bacillota,CAG-103 sp900757655,59.04,0.86,OPERA_MS,YES,FALSE
+OPERA_MS_3068_SemiBin_29,Actinomycetota,Collinsella,62.63,8.87,OPERA_MS,YES,TRUE
+OPERA_MS_4143_SemiBin_116,Bacillota,Hominicoprocola sp900550165,85.09,2.72,OPERA_MS,YES,FALSE
+OPERA_MS_4143_SemiBin_15,Bacillota,Acidaminococcus massiliensis,99.91,1.03,OPERA_MS,YES,FALSE
+OPERA_MS_4143_SemiBin_46,Bacillota,Ruthenibacterium lactatiformans,98.71,1.2,OPERA_MS,YES,FALSE
+OPERA_MS_4143_SemiBin_53,Bacillota,Faecalibacterium taiwanense,92.58,4.28,OPERA_MS,YES,FALSE
+OPERA_MS_8366_SemiBin_121,Bacillota,Brotaphodocola sp003506385,74.15,7.33,OPERA_MS,YES,FALSE
+OPERA_MS_8373_SemiBin_146,Bacteroidota,Alistipes finegoldii,78.24,1.86,OPERA_MS,YES,FALSE
+OPERA_MS_8373_SemiBin_177,Actinomycetota,Bifidobacterium longum,55.49,2.86,OPERA_MS,YES,FALSE
+OPERA_MS_8373_SemiBin_18,Bacillota,Evtepia,54.41,3.07,OPERA_MS,YES,TRUE
+OPERA_MS_8373_SemiBin_38,Bacillota,Faecousia intestinalis,93.68,7.21,OPERA_MS,YES,FALSE
+OPERA_MS_8915_SemiBin_279,Bacillota,CAG-345 sp000433315,56.28,7.48,OPERA_MS,YES,FALSE
+OPERA_MS_8915_SemiBin_38,Bacillota,Roseburia intestinalis,51.56,3.21,OPERA_MS,YES,FALSE
+OPERA_MS_8915_SemiBin_87,Bacillota,Schaedlerella,54.57,8.03,OPERA_MS,YES,TRUE
+OPERA_MS_934_SemiBin_108,Bacteroidota,Bacteroides thetaiotaomicron,72.04,0.78,OPERA_MS,YES,FALSE
+OPERA_MS_934_SemiBin_227,Bacillota,Faecousia sp000435995,77.93,6.84,OPERA_MS,YES,FALSE
+OPERA_MS_934_SemiBin_78,Bacillota,CAG-269 sp001916005,69.32,3.65,OPERA_MS,YES,FALSE
+OPERA_MS_942_SemiBin_20,Bacillota,Enterocloster sp001517625,96.46,1.55,OPERA_MS,YES,FALSE
+OPERA_MS_942_SemiBin_9,Bacillota,Fusicatenibacter,54.29,4.38,OPERA_MS,YES,TRUE
+flye2.8.3_2118_SemiBin_10,Bacillota,Holdemanella sp900556915,91.58,5.46,flye2.8.3,NO,FALSE
+flye2.8.3_2118_SemiBin_18,Bacillota,Gemmiger,59.83,6.35,flye2.8.3,NO,TRUE
+flye2.8.3_3068_SemiBin_132,Bacillota,CAG-245 sp000434195,100,8.77,flye2.8.3,NO,FALSE
+flye2.8.3_3068_SemiBin_83,Actinomycetota,Bifidobacterium adolescentis,99.98,0.75,flye2.8.3,NO,FALSE
+flye2.8.3_4143_SemiBin_98,Bacillota,Romboutsia timonensis,99.56,3.82,flye2.8.3,NO,FALSE
+flye2.8.3_5178_SemiBin_105,Bacillota,Eubacterium_G segne,81.02,7.63,flye2.8.3,NO,FALSE
+flye2.8.3_5178_SemiBin_44,Actinomycetota,Enorma massiliensis,80.32,9.65,flye2.8.3,NO,FALSE
+flye2.8.3_5178_SemiBin_46,Bacillota,Streptococcus,52.66,7.34,flye2.8.3,NO,TRUE
+flye2.8.3_8366_SemiBin_181,Bacillota,Anaerostipes hadrus,99.99,4.39,flye2.8.3,NO,FALSE
+flye2.8.3_8366_SemiBin_257,Bacillota,Weissella confusa,79.11,6.08,flye2.8.3,NO,FALSE
+flye2.8.3_8366_SemiBin_283,Bacillota,Streptococcus,60.32,1.97,flye2.8.3,NO,TRUE
+flye2.8.3_8366_SemiBin_93,Bacillota,Eubacterium_U album,88.52,3.28,flye2.8.3,NO,FALSE
+flye2.8.3_8915_SemiBin_1,Bacteroidota,Limisoma,52.68,9.37,flye2.8.3,NO,TRUE
+flye2.8.3_8915_SemiBin_139,Bacillota,Faecalibacillus intestinalis,58.45,6.47,flye2.8.3,NO,FALSE
+flye2.8.3_8915_SemiBin_32,Bacillota,Acetatifactor hominis,71.98,6.86,flye2.8.3,NO,FALSE
+flye2.8.3_942_SemiBin_0,Pseudomonadota,Escherichia coli,100,6.4,flye2.8.3,NO,FALSE
+flye2.8.3_942_SemiBin_160,Bacillota,Coprococcus_A intestinihominis,53.46,2,flye2.8.3,NO,FALSE
+flye2.8.3_942_SemiBin_59,Bacillota,Faecalibacterium,53.43,6.64,flye2.8.3,NO,TRUE
+flye2.8.3_942_SemiBin_80,Bacillota,Brotaphodocola sp003480315,70.79,3.59,flye2.8.3,NO,FALSE
+flye2.8.3_sr_2118_SemiBin_1,Bacillota,Dorea_A,70.65,5.93,flye2.8.3_sr,YES,TRUE
+flye2.8.3_sr_4143_SemiBin_156,Bacillota,Faecalitalea cylindroides,55.16,1.16,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_4143_SemiBin_209,Bacillota,Evtepia excrementipullorum,66.52,3.6,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_4143_SemiBin_21,Pseudomonadota,Parasutterella excrementihominis,100,4.28,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_4143_SemiBin_38,Bacillota,Streptococcus ilei,90.65,9.3,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_5178_SemiBin_118,Bacillota,Megamonas funiformis,100,0.39,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_5178_SemiBin_33,Bacillota,Eubacterium_I ramulus_A,66.56,3.59,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_5178_SemiBin_73,Bacillota,Megasphaera stantonii,96.9,0.77,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8366_SemiBin_169,Bacillota,Pseudobutyricicoccus,65.23,8.38,flye2.8.3_sr,YES,TRUE
+flye2.8.3_sr_8366_SemiBin_177,Bacteroidota,Bacteroides stercoris,99.73,0.84,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8366_SemiBin_184,Bacteroidota,Butyricimonas paravirosa,99.98,8.88,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8366_SemiBin_187,Bacillota,CAG-170 sp937967235,60.7,2.69,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8373_SemiBin_270,Bacillota,Alangreenwoodia sp905206455,73.88,2.47,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8373_SemiBin_4,Bacillota,Bariatricus,63.88,6.38,flye2.8.3_sr,YES,TRUE
+flye2.8.3_sr_8373_SemiBin_60,Bacillota,Onthomonas sp900752305,99.35,0.03,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8373_SemiBin_8,Bacillota,Oliverpabstia,55.24,8.22,flye2.8.3_sr,YES,TRUE
+flye2.8.3_sr_8373_SemiBin_81,Actinomycetota,Rothia mucilaginosa_B,61.4,1.24,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_109,Bacillota,Oscillibacter segnis,97.72,7.44,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_118,Desulfobacterota_I,Mailhella sp944324615,72.64,1.68,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_134,Bacillota,HGM10766 sp900757295,91.57,0.02,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_148,Bacillota,CAG-238,53.53,5.3,flye2.8.3_sr,YES,TRUE
+flye2.8.3_sr_8915_SemiBin_166,Bacillota,Hominicoprocola,53.12,6.02,flye2.8.3_sr,YES,TRUE
+flye2.8.3_sr_8915_SemiBin_2,Bacillota,Blautia_A,50.89,6.33,flye2.8.3_sr,YES,TRUE
+flye2.8.3_sr_8915_SemiBin_200,Bacillota,CAG-245 sp000435175,71.86,8.54,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_263,Actinomycetota,Slackia sp900555495,50.89,0.49,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_33,Bacillota,CAKRPJ01 sp934376955,90.64,9.17,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_333,Bacillota,Streptococcus salivarius,99.87,3.73,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_392,Actinomycetota,Anaerotardibacter sp000435475,81.19,4.3,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_396,Bacillota,Jutongia sp003524945,99.92,0.97,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_75,Bacillota,Suilimivivens sp000438155,99.01,1.22,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_8915_SemiBin_77,Bacillota,CAG-115 sp003531585,99.85,0.71,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_934_SemiBin_108,Bacillota,CAG-465 sp000433335,99.19,0.14,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_942_SemiBin_107,Bacteroidota,Prevotella sp015074785,99.99,0.16,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_942_SemiBin_23,Pseudomonadota,Klebsiella pneumoniae,91.56,1.95,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_942_SemiBin_41,Bacillota,Mediterraneibacter faecis,99.91,1.41,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_942_SemiBin_50,Bacillota,Otoolea sp000435655,73.01,3.87,flye2.8.3_sr,YES,FALSE
+flye2.8.3_sr_942_SemiBin_95,Bacillota,Sarcina perfringens,52.03,4.29,flye2.8.3_sr,YES,FALSE
+flye2.9.6_2118_SemiBin_111,Cyanobacteriota,UBA2883 sp900768915,90.41,2.45,flye2.9.6,NO,FALSE
+flye2.9.6_4143_SemiBin_103,Bacillota,CAG-103 sp900543625,93.86,3.17,flye2.9.6,NO,FALSE
+flye2.9.6_4143_SemiBin_21,Bacillota,Fusicatenibacter,51.24,6.36,flye2.9.6,NO,TRUE
+flye2.9.6_4143_SemiBin_443,Bacillota,Aphodocola sp000434835,94.39,9.79,flye2.9.6,NO,FALSE
+flye2.9.6_8366_SemiBin_40,Actinomycetota,Adlercreutzia equolifaciens,74.45,6.24,flye2.9.6,NO,FALSE
+flye2.9.6_8366_SemiBin_464,Bacillota,Hominicoprocola sp934835795,94.5,2.37,flye2.9.6,NO,FALSE
+flye2.9.6_8366_SemiBin_87,Bacillota,Agathobaculum butyriciproducens,98.28,3.56,flye2.9.6,NO,FALSE
+flye2.9.6_8373_SemiBin_0,Bacillota,Hominisplanchenecus,56.26,2.59,flye2.9.6,NO,TRUE
+flye2.9.6_8373_SemiBin_101,Bacillota,Dorea_A,86.05,9.55,flye2.9.6,NO,TRUE
+flye2.9.6_8373_SemiBin_198,Bacillota,Faecalibacterium sp934514285,88.92,8.1,flye2.9.6,NO,FALSE
+flye2.9.6_8373_SemiBin_27,Actinomycetota,Bifidobacterium pseudocatenulatum,99.97,0.71,flye2.9.6,NO,FALSE
+flye2.9.6_8373_SemiBin_64,Bacillota,Blautia_A sp900551715,57.92,2.49,flye2.9.6,NO,FALSE
+flye2.9.6_8373_SemiBin_94,Bacillota,Schaedlerella hominis,83.66,5.02,flye2.9.6,NO,FALSE
+flye2.9.6_8915_SemiBin_104,Bacillota,Hominiventricola filiformis,93.43,4.67,flye2.9.6,NO,FALSE
+flye2.9.6_8915_SemiBin_132,Bacillota,Claveliimonas ammoniilytica,70.14,7.68,flye2.9.6,NO,FALSE
+flye2.9.6_8915_SemiBin_16,Bacillota,Clostridium sp000435835,90.54,5.19,flye2.9.6,NO,FALSE
+flye2.9.6_8915_SemiBin_170,Bacillota,Gallintestinimicrobium propionicum,80.69,3.98,flye2.9.6,NO,FALSE
+flye2.9.6_8915_SemiBin_216,Bacillota,CAG-269 sp001916035,92.88,8.91,flye2.9.6,NO,FALSE
+flye2.9.6_8915_SemiBin_390,Bacteroidota,Prevotella,50.4,5.19,flye2.9.6,NO,TRUE
+flye2.9.6_8915_SemiBin_44,Bacillota,Vescimonas,69.55,7.03,flye2.9.6,NO,TRUE
+flye2.9.6_8915_SemiBin_448,Bacillota,Ruminococcus_C callidus,97.72,2.83,flye2.9.6,NO,FALSE
+flye2.9.6_8915_SemiBin_55,Bacillota,Schaedlerella,79.8,8.74,flye2.9.6,NO,TRUE
+flye2.9.6_934_SemiBin_4,Bacillota,Blautia_A sp003477525,53.97,1.6,flye2.9.6,NO,FALSE
+flye2.9.6_934_SemiBin_52,Bacillota,Hominisplanchenecus faecis,67.64,9.17,flye2.9.6,NO,FALSE
+flye2.9.6_942_SemiBin_156,Actinomycetota,Collinsella sp027669365,98.56,1.68,flye2.9.6,NO,FALSE
+flye2.9.6_942_SemiBin_18,Bacillota,Faecalimonas sp000209385,86.56,6.41,flye2.9.6,NO,FALSE
+flye2.9.6_sr_2118_SemiBin_72,Bacillota,Agathobaculum butyriciproducens,50.72,2.75,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_3068_SemiBin_21,Bacillota,Vescimonas,61.93,7.56,flye2.9.6_sr,YES,TRUE
+flye2.9.6_sr_4143_SemiBin_137,Bacillota,CAG-103 sp000432375,90.3,2.71,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_4143_SemiBin_66,Actinomycetota,Bifidobacterium bifidum,99.88,1.25,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_5178_SemiBin_131,Bacillota,Lachnospira eligens_A,99.97,2.66,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_5178_SemiBin_143,Bacteroidota,Phocaeicola plebeius_A,99.89,0,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_5178_SemiBin_98,Bacillota,Fimenecus sp000432435,97,0.21,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_123,Bacillota,Enterocloster sp900541315,82.83,3.42,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_131,Bacillota,Gemmiger qucibialis,100,0.3,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_146,Bacillota,Agathobaculum,58.57,6.65,flye2.9.6_sr,YES,TRUE
+flye2.9.6_sr_8366_SemiBin_217,Bacillota,CAG-170 sp002404795,95.42,1.51,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_223,Actinomycetota,Collinsella sp027671585,99.82,0.97,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_267,Bacillota,CAG-269 sp000437215,100,4.72,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_32,Bacillota,Oscillibacter faecalis_A,52.93,5.27,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_338,Bacteroidota,Prevotella sp000434975,99.98,0.25,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_54,Bacteroidota,Bacteroides xylanisolvens,50.72,3.35,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8366_SemiBin_78,Bacillota,COE1 sp001916965,99.98,1.62,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8373_SemiBin_10,Bacillota,Choladousia sp902363665,55.94,4.35,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8373_SemiBin_123,Bacillota,Acetatifactor intestinalis,80.54,1.08,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8373_SemiBin_132,Bacillota,Faecalibacterium prausnitzii,99.65,1.59,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8373_SemiBin_151,Bacillota,Evtepia sp004556345,100,6.54,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8373_SemiBin_478,Bacillota,Phascolarctobacterium_A succinatutens_B,92.23,0.29,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8373_SemiBin_537,Actinomycetota,Collinsella sp003466125,99.89,0.98,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_10,Bacillota,Vescimonas sp900550615,74.75,3.8,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_108,Bacteroidota,Phocaeicola massiliensis,99.99,8.37,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_114,Bacillota,Faecousia sp900544405,56.93,7.06,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_143,Bacillota,Ruminococcus_C sp000433635,99.94,4.89,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_154,Bacillota,Evtepia sp004556345,58.85,3.12,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_261,Bacillota,CAG-269 sp900551615,95.02,7.48,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_278,Bacteroidota,Cryptobacteroides sp900544195,96.42,1.26,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_330,Bacillota,Vescimonas sp000435555,71.04,0.65,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_507,Bacillota,Butyribacter intestini,99.65,0.28,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_533,Bacteroidota,Parabacteroides merdae,99.96,0.63,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_82,Bacillota,Pilosibacter sp900066785,97.78,5.09,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_8915_SemiBin_96,Bacteroidota,Bacteroides xylanisolvens,56.32,2.88,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_934_SemiBin_603,Bacillota,CAG-492 sp000434335,97.42,3.32,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_942_SemiBin_15,Bacillota,Allisonella,71.63,3.83,flye2.9.6_sr,YES,TRUE
+flye2.9.6_sr_942_SemiBin_200,Pseudomonadota,Duodenibacillus intestinigallinarum,99.99,0.18,flye2.9.6_sr,YES,FALSE
+flye2.9.6_sr_942_SemiBin_65,Bacillota,Neoanaerotignum_A sp934256695,82.89,0.26,flye2.9.6_sr,YES,FALSE
+raven1.8.3_2118_SemiBin_25,Actinomycetota,Collinsella,76.91,4.65,raven1.8.3,NO,TRUE
+raven1.8.3_4143_SemiBin_66,Bacillota,Blautia_A,58.1,9.13,raven1.8.3,NO,TRUE
+raven1.8.3_4143_SemiBin_99,Bacillota,CAG-269 sp003525075,97.93,0.57,raven1.8.3,NO,FALSE
+raven1.8.3_8366_SemiBin_2,Bacillota,Faecalibacterium,54.75,5.89,raven1.8.3,NO,TRUE
+raven1.8.3_8915_SemiBin_112,Bacillota,Lachnospiraceae,50.99,7.32,raven1.8.3,NO,TRUE
+raven1.8.3_8915_SemiBin_128,Bacillota,Catenibacterium mitsuokai,55.84,6.18,raven1.8.3,NO,FALSE
+raven1.8.3_942_SemiBin_24,Bacillota,Dorea,50.82,9.3,raven1.8.3,NO,TRUE
+raven1.8.3_sr_3068_SemiBin_26,Bacteroidota,Prevotella sp015074785,99.97,0.43,raven1.8.3_sr,YES,FALSE
+raven1.8.3_sr_4143_SemiBin_29,Bacillota,Dorea_A,57.92,9.69,raven1.8.3_sr,YES,TRUE
+raven1.8.3_sr_4143_SemiBin_49,Bacteroidota,Bacteroides,65.14,8.08,raven1.8.3_sr,YES,TRUE
+raven1.8.3_sr_4143_SemiBin_65,Bacillota,Eubacterium_I ramulus,64.03,7.81,raven1.8.3_sr,YES,FALSE
+raven1.8.3_sr_5178_SemiBin_54,Bacillota,Lachnospira,52.6,5.05,raven1.8.3_sr,YES,TRUE
+raven1.8.3_sr_8373_SemiBin_62,Bacillota,CAG-103,65.64,3.81,raven1.8.3_sr,YES,TRUE
+raven1.8.3_sr_8373_SemiBin_70,Bacillota,Leuconostoc lactis,57.97,6.93,raven1.8.3_sr,YES,FALSE
+raven1.8.3_sr_8915_SemiBin_155,Bacillota,CAG-302 sp900543825,92.8,2.19,raven1.8.3_sr,YES,FALSE
+raven1.8.3_sr_8915_SemiBin_157,Bacillota,Ruminococcoides,51.31,8.03,raven1.8.3_sr,YES,TRUE
+raven1.8.3_sr_8915_SemiBin_34,Bacillota,Blautia_A,61.77,9.78,raven1.8.3_sr,YES,TRUE
+raven1.8.3_sr_934_SemiBin_24,Bacillota,Blautia,54.61,5.31,raven1.8.3_sr,YES,TRUE
+raven1.8.3_sr_942_SemiBin_28,Bacillota,Dorea,53.07,9.55,raven1.8.3_sr,YES,TRUE

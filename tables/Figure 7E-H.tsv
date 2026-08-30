@@ -1,0 +1,109 @@
+file	num_seqs	sum_len	min_len	avg_len	max_len	sum_gap	N50	N50_num	GC(%)	sum_n	sum_hm_mags	contamination
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052042/8373/genome.nextpolish.fasta	5302	364269795	351	68704.2	3091967	0	229904	300	46.11	600	43	2.732042553
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607290027832/3068/genome.nextpolish.fasta	4080	140814075	25	34513.3	2204022	0	73884	332	43.42	0	62	
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052037/934/genome.nextpolish.fasta	4143	220549828	29	53234.3	2291597	0	186701	236	44.53	300	94	
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052040/942/genome.nextpolish.fasta	2430	214455917	472	88253.5	5291761	0	396344	109	44.52	396	17	
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052039/4143/genome.nextpolish.fasta	6013	343717338	216	57162.4	4289197	0	172563	365	45.52	1100	72	
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052036/2118/genome.nextpolish.fasta	2387	104141257	469	43628.5	2173922	0	110309	142	44.26	700	44	
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052041/5178/genome.nextpolish.fasta	2537	180115081	403	70995.3	3396561	0	320551	111	45.44	396	74	
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052038/8915/genome.nextpolish.fasta	7597	508488475	88	66932.8	4340322	0	238668	392	45.68	995	24	
+/Files/huyongjie/supplementary_assembly/flye2.8.3_sr/W202607230052044/8366/genome.nextpolish.fasta	6011	427207571	37	71071	4212861	0	343468	228	45.98	1185	40	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032203/2118/genome.nextpolish.fasta	100580	190878774	191	1897.8	534441	0	12023	2375	47.09	242	84	2.133903654
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032195/8366/genome.nextpolish.fasta	162416	533403974	177	3284.2	1554932	0	78749	1222	46.51	985	79	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032202/5178/genome.nextpolish.fasta	81695	209199436	198	2560.7	999118	0	35428	1083	47.12	422	93	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032201/3068/genome.nextpolish.fasta	231078	326292290	191	1412	1184687	0	4014	6998	47.61	238	111	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032196/942/genome.nextpolish.fasta	103738	264512893	193	2549.8	2365085	0	52149	854	45.34	545	79	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032198/8915/genome.nextpolish.fasta	208723	555041867	186	2659.2	2338978	0	62459	1540	46.57	1371	52	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032199/4143/genome.nextpolish.fasta	161236	435560262	190	2701.4	1584992	0	52237	1481	46.49	641	36	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032197/934/genome.nextpolish.fasta	312329	563334031	181	1803.7	1298631	0	18239	4287	46.87	376	31	
+/Files/huyongjie/supplementary_assembly/OPERA_MS_POLISH/W202607270032200/8373/genome.nextpolish.fasta	225697	503004161	191	2228.7	1915733	0	39785	2075	47.61	2446	37	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042963/2118_hybridspades/scaffolds.fasta	152157	214714626	55	1411.1	624214	0	13219	2147	47.41	142207	51	2.038395954
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042962/3068_hybridspades/scaffolds.fasta	334539	376301054	55	1124.8	1166562	0	4467	7597	47.65	310899	92	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042961/5178_hybridspades/scaffolds.fasta	127310	225061798	55	1767.8	1334991	0	23748	1302	47.21	519431	42	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042964/934_hybridspades/scaffolds.fasta	364892	589538249	55	1615.7	1422490	0	21377	3793	46.86	3499756	98	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042956/942_hybridspades/scaffolds.fasta	140683	264999337	55	1883.7	4521298	0	22334	1766	45.12	2017486	116	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042958/8366_hybridspades/scaffolds.fasta	151566	455435858	55	3004.9	1668953	0	40215	1933	46.38	6119921	58	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042959/8373_hybridspades/scaffolds.fasta	308506	522905014	55	1695	1567318	0	22940	3304	47.43	3999384	36	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042957/4143_hybridspades/scaffolds.fasta	195522	439606421	55	2248.4	2384676	0	32419	2385	46.34	3041212	95	
+/Files/huyongjie/supplementary_assembly/HybridSPAdes/W202607220042960/8915_hybridspades/scaffolds.fasta	279627	560325353	55	2003.8	1601472	0	24835	3602	46.64	5344070	104	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042633/8373/genome.nextpolish.fasta	11423	376518980	2499	32961.5	3355327	0	156259	307	45.81	0	67	2.961962422
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607290027990/8915/genome.nextpolish.fasta	14167	526023435	2504	37130.2	4237280	0	207571	390	45.52	0	41	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042632/5178/genome.nextpolish.fasta	8562	133733790	2500	15619.5	2383093	0	33048	736	44.28	0	13	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042634/3068/genome.nextpolish.fasta	10136	104399390	2500	10299.9	677681	0	18071	1166	42.61	0	31	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042631/942/genome.nextpolish.fasta	5886	236930547	2501	40253.2	4987678	0	320359	119	44.37	0	83	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042628/934/genome.nextpolish.fasta	11511	158204255	2504	13743.7	2379661	0	29219	836	42.94	0	83	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042627/2118/genome.nextpolish.fasta	5934	68552394	2501	11552.5	1193494	0	20081	617	42.57	0	20	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042635/8366/genome.nextpolish.fasta	9271	458009396	2500	49402.4	4388842	0	375363	220	45.79	0	39	
+/Files/huyongjie/supplementary_assembly/MetaMDBG_sr/W202607230042630/4143/genome.nextpolish.fasta	12832	356447908	2502	27778	3467179	0	117849	389	45.31	0	102	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042841/942/genome.nextpolish.fasta	3539	231074464	356	65293.7	4974949	0	296088	132	44.52	0	84	2.754083485
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042838/934/genome.nextpolish.fasta	15106	282710602	270	18715.1	2294317	0	72638	553	45.35	0	42	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042844/3068/genome.nextpolish.fasta	17998	219630587	275	12203.1	2201834	0	25236	1181	44.36	0	45	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042837/2118/genome.nextpolish.fasta	9487	146446304	215	15436.5	2074104	0	33450	609	44.58	0	33	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042839/8915/genome.nextpolish.fasta	11999	573823034	189	47822.6	3572623	0	205374	473	46.02	0	89	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042840/4143/genome.nextpolish.fasta	11012	399136137	10	36245.6	3599896	0	127928	484	45.68	0	97	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042845/8366/genome.nextpolish.fasta	8369	473249919	115	56548	3744548	0	312483	278	46.11	0	63	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607290027880/5178/genome.nextpolish.fasta	7265	213886487	327	29440.7	2996511	0	193199	180	45.54	0	25	
+/Files/huyongjie/supplementary_assembly/flye2.9.6_sr/W202607230042843/8373/genome.nextpolish.fasta	9192	408490425	286	44439.8	3104432	0	180870	376	46.25	0	73	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042150/3068_metamdbg/contigs.fasta.gz	10136	104399390	2500	10299.9	677681	0	18071	1166	42.61	0	18	3.478461538
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042149/5178_metamdbg/contigs.fasta.gz	8562	133642088	2500	15608.7	2382900	0	33027	739	44.25	0	39	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042147/8373_metamdbg/contigs.fasta.gz	11423	376314500	2502	32943.6	3354740	0	156247	307	45.79	0	83	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042151/2118_metamdbg/contigs.fasta.gz	5934	68539023	2501	11550.2	1193770	0	20078	616	42.56	0	95	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042146/8366_metamdbg/contigs.fasta.gz	9271	458009396	2500	49402.4	4388842	0	375363	220	45.79	0	84	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042148/8915_metamdbg/contigs.fasta.gz	14167	525778140	2500	37112.9	4236891	0	207681	389	45.51	0	41	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042152/934_metamdbg/contigs.fasta.gz	11511	158051288	2500	13730.5	2378991	0	29210	838	42.92	0	20	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042145/4143_metamdbg/contigs.fasta.gz	12832	356260627	2501	27763.5	3467312	0	117781	389	45.31	0	70	
+/Files/huyongjie/supplementary_assembly/MetaMDBG/W202607220042144/942_metamdbg/contigs.fasta.gz	5886	236797600	2502	40230.6	4987240	0	326314	118	44.36	0	31	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607220044773/5178/assembly.fasta	2537	180150738	404	71009.4	3395914	0	313655	112	45.47	400	86	3.653942308
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607230034341/934/assembly.fasta	4143	220646991	29	53257.8	2291218	0	186633	237	44.61	300	63	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607220044772/8915/assembly.fasta	7597	508663133	88	66955.8	4340227	0	238642	393	45.74	1000	36	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607220044774/3068/assembly.fasta	4080	140835267	25	34518.4	2203832	0	73913	332	43.4	0	20	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607220044771/8373/assembly.fasta	5302	364449427	351	68738.1	3091800	0	229976	300	46.17	600	36	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607220044768/942/assembly.fasta	2430	214555452	472	88294.4	5291575	0	395717	110	44.58	400	70	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607220044769/4143/assembly.fasta	6013	343864375	216	57186.8	4289053	0	172775	365	45.58	1100	18	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607220044770/8366/assembly.fasta	6011	427327651	37	71090.9	4212596	0	343451	228	46.01	1200	55	
+/Files/huyongjie/supplementary_assembly/flye2.8.3/W202607230034375/2118/assembly.fasta	2387	104176873	474	43643.4	2173980	0	110311	142	44.29	700	32	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042730/8915/genome.nextpolish.fasta	11165	696446577	1126	62377.7	5724753	0	328321	293	46.37	0	41	2.91218018
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042735/3068/genome.nextpolish.fasta	12585	244313587	1028	19413.1	2975984	0	38452	852	44.67	0	31	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042729/934/genome.nextpolish.fasta	11065	323146369	1040	29204.4	3910595	0	95483	405	45.59	0	83	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042728/2118/genome.nextpolish.fasta	7918	175306397	1145	22140.2	3273670	0	40061	567	44.42	0	47	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042731/4143/genome.nextpolish.fasta	10178	484036732	1055	47557.2	4866392	0	151765	352	45.94	0	19	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042734/8373/genome.nextpolish.fasta	9460	516064888	1077	54552.3	6301173	0	214724	292	46.44	0	74	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042732/942/genome.nextpolish.fasta	5408	315324436	1089	58307	7976906	0	291844	118	44.79	0	87	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042733/5178/genome.nextpolish.fasta	5944	248845475	1126	41865	3714396	0	229280	145	45.64	0	91	
+/Files/huyongjie/supplementary_assembly/MyLoasm_sr/W202607230042736/8366/genome.nextpolish.fasta	6379	580693071	1119	91032	7443906	0	792463	137	46.21	0	82	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/8366_assembly.fasta	8369	473334904	115	56558.1	3744249	0	312329	279	46.14	0	38	3.684173387
+/Files/huyongjie/supplementary_assembly/flye2.9.6/3068_assembly.fasta	17998	219688657	275	12206.3	2201656	0	25171	1195	44.37	0	84	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/8373_assembly.fasta	9192	408622443	286	44454.1	3103958	0	180860	376	46.29	0	16	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/2118_assembly.fasta	9487	146494257	214	15441.6	2074096	0	33463	614	44.62	0	76	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/8915_assembly.fasta	11999	573948977	190	47833.1	3572135	0	205342	472	46.06	0	96	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/0942_assembly.fasta	3539	231143622	357	65313.3	4974494	0	296064	132	44.57	0	51	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/934_assembly.fasta	15106	282855006	271	18724.7	2293946	0	72592	554	45.45	0	69	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/5178_assembly.fasta	7265	213949623	327	29449.4	2995845	0	193179	180	45.58	0	29	
+/Files/huyongjie/supplementary_assembly/flye2.9.6/4143_assembly.fasta	11012	399247233	10	36255.7	3599243	0	127755	484	45.73	0	37	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072718/3068/genome.nextpolish.fasta	2144	110012488	1614	51311.8	2197958	0	99191	239	42.67	0	22	3.49840678
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072716/8915/genome.nextpolish.fasta	4199	367787609	1241	87589.3	2400156	0	172371	485	44.69	0	18	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072713/4143/genome.nextpolish.fasta	3395	242153472	1045	71326.5	2140688	0	145630	407	44.9	0	11	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072720/934/genome.nextpolish.fasta	1994	154780054	1662	77622.9	2233763	0	196643	176	43.7	0	45	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072719/2118/genome.nextpolish.fasta	905	64862197	1576	71670.9	2891673	0	275326	50	43.39	0	25	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072717/5178/genome.nextpolish.fasta	1253	123754193	2124	98766.3	2027405	0	266917	102	44.46	0	55	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072712/942/genome.nextpolish.fasta	1353	147677114	1416	109147.9	2384195	0	253758	150	44.47	0	50	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072714/8366/genome.nextpolish.fasta	2952	326267520	2752	110524.2	2871937	0	229473	319	45.47	0	39	
+/Files/huyongjie/supplementary_assembly/raven1.8.3_sr/W202607240072715/8373/genome.nextpolish.fasta	2815	252977520	1931	89867.7	3519304	0	181872	325	45.32	0	30	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036005/5178_raven_contigs.fasta	1253	123662966	2113	98693.5	2026535	0	266664	102	44.42	0	40	4.740214592
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036000/942_raven_contigs.fasta	1353	147606031	1410	109095.4	2381154	0	253683	150	44.45	0	42	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036004/8915_raven_contigs.fasta	4199	367449823	1243	87508.9	2393268	0	172839	484	44.65	0	39	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036001/4143_raven_contigs.fasta	3395	241901726	1043	71252.3	2140491	0	144920	407	44.86	0	9	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036007/2118_raven_contigs.fasta	905	64849312	1576	71656.7	2891171	0	275321	50	43.39	0	17	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036002/8366_raven_contigs.fasta	2952	325968203	2736	110422.8	2871799	0	229416	319	45.43	0	27	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036008/934_raven_contigs.fasta	1994	154610047	1652	77537.6	2233197	0	198072	175	43.67	0	21	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036006/3068_raven_contigs.fasta	2144	109950083	1589	51282.7	2197284	0	99137	238	42.59	0	17	
+/Files/huyongjie/supplementary_assembly/raven1.8.3/W202607230036003/8373_raven_contigs.fasta	2815	252685057	1931	89763.8	3519063	0	181802	325	45.26	0	21	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041347/8366_myloasm/assembly_primary.fa	6379	580408260	1119	90987.3	7442962	0	792384	137	46.21	0	57	4.124138817
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041350/5178_myloasm/assembly_primary.fa	5944	248517089	1129	41809.7	3713031	0	229120	145	45.59	0	73	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041349/8915_myloasm/assembly_primary.fa	11165	696446577	1126	62377.7	5724753	0	328321	293	46.37	0	65	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041351/3068_myloasm/assembly_primary.fa	12585	243997889	1028	19388	2976152	0	38445	844	44.6	0	20	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041348/8373_myloasm/assembly_primary.fa	9460	515627654	1077	54506.1	6301184	0	215017	291	46.42	0	36	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041346/4143_myloasm/assembly_primary.fa	10178	483647666	1055	47518.9	4865907	0	151858	351	45.93	0	12	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041352/2118_myloasm/assembly_primary.fa	7918	175187785	1145	22125.3	3273298	0	40070	566	44.4	0	26	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041345/942_myloasm/assembly_primary.fa	5408	315092976	1082	58264.2	7975891	0	291655	118	44.78	0	28	
+/Files/huyongjie/supplementary_assembly/MyLoasm/W202607220041353/934_myloasm/assembly_primary.fa	11065	322424828	1040	29139.2	3908989	0	95339	402	45.53	0	72	
